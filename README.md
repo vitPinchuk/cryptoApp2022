@@ -1,10 +1,12 @@
-Project coded by:  [Vitaly Pinchuk](https://www.linkedin.com/in/vitaly-pinchuk-845182200/).  
+Project coded by: [Vitaly Pinchuk](https://www.linkedin.com/in/pin4/).
 
+## About
 
-## About  
-Сryptocurrency catalog with latest information. The ability to add coins to the wallet and edit your portfolio. Track your progress and portfolio growth. 
+Сryptocurrency catalog with latest information. The ability to add coins to the wallet and edit your portfolio. Track your progress and portfolio growth.
 local storage is used to store personal information.
-Aplication develop with use -  **React, Redux, React-Router-Dom.**
-***
+Aplication develop with use - **React, Redux, React-Router-Dom.**
+
+---
+
 API: Coincap  
-[Coincap](https://docs.coincap.io/).  
+[Coincap](https://docs.coincap.io/).
