@@ -10,3 +10,6 @@ Aplication develop with use - **React, Redux, React-Router-Dom.**
 
 API: Coincap  
 [Coincap](https://docs.coincap.io/).
+
+<img src="https://github.com/vitPinchuk/cryptoApp2022/blob/main/src/img/crypto%20app%201.jpg" title="Example" alt="Example" width="672" height="500"/>
+<img src="https://github.com/vitPinchuk/cryptoApp2022/blob/main/src/img/crypto%20app%202.jpg" title="Example" alt="Example" width="672" height="500"/>
