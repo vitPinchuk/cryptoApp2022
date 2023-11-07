@@ -1,0 +1,24 @@
+@import '../../../static/styles/Variables.scss';
+
+.l-list__item__button{
+  font-size: 34px;
+  background: none;
+  color: $color-yellow;
+  margin-bottom: 15px;
+  transition: all 0.3s;
+
+  @media (max-width: 720px) {
+    font-size: 24px;
+  }
+
+  @media (max-width: 540px) {
+    font-size: 18px;
+  }
+
+  &:hover {
+    transform: scale(1.2);
+    cursor: pointer;
+    color: $color-orange;
+    transition: all 0.3s;
+  }
+}
